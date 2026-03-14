@@ -16,7 +16,7 @@ Fork repositori ini ke akun GitHub Anda dengan menekan tombol **Fork** di kanan 
 Unduh repositori hasil fork ke komputer Anda dengan menjalankan perintah berikut:
 
 ```sh
-   git clone https://github.com/YOUR_USERNAME/LAB-OOP-01-2025.git
+   git clone https://github.com/YOUR_USERNAME/LAB-OOP-014-2026.git
 ```
 
 Gantilah `YOUR_USERNAME` dengan username GitHub Anda.
@@ -47,7 +47,7 @@ Setiap kali menambahkan atau mengubah file, lakukan proses **commit** dengan pes
 # Menambahkan semua perubahan
 git add .
 # atau menambahkan file tertentu
-git add "Praktikum-1/NIM/NamaFile.py"
+git add "Praktikum-1/NIM/NamaFile.java"
 ```
 
 Lakukan commit dengan pesan yang jelas:
@@ -71,7 +71,7 @@ Jika belum menghubungkan Git dengan akun GitHub Anda, masukkan username dan pers
 3. Gulir ke bawah dan pilih **Developer settings**.
 4. Pilih **Personal access tokens**.
 5. Klik **Generate new token**.
-6. Masukkan catatan (contoh: `Token for LAB-OOP-01-2025`).
+6. Masukkan catatan (contoh: `Token for LAB-OOP-014-2026`).
 7. Atur masa berlaku token.
 8. Pada bagian **Select scopes**, centang **repo**.
 9. Klik **Generate new token**.
